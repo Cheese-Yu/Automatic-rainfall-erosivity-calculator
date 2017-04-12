@@ -1,0 +1,17 @@
+G:\c#-try\rainfall erosivity calculator\rainfall erosivity calculator\bin\Release\rainfall-erosivity calculator.exe.config
+G:\c#-try\rainfall erosivity calculator\rainfall erosivity calculator\bin\Release\rainfall-erosivity calculator.exe
+G:\c#-try\rainfall erosivity calculator\rainfall erosivity calculator\bin\Release\rainfall-erosivity calculator.pdb
+G:\c#-try\rainfall erosivity calculator\rainfall erosivity calculator\bin\Release\ICSharpCode.SharpZipLib.dll
+G:\c#-try\rainfall erosivity calculator\rainfall erosivity calculator\bin\Release\NPOI.dll
+G:\c#-try\rainfall erosivity calculator\rainfall erosivity calculator\bin\Release\NPOI.OOXML.dll
+G:\c#-try\rainfall erosivity calculator\rainfall erosivity calculator\bin\Release\NPOI.OpenXml4Net.dll
+G:\c#-try\rainfall erosivity calculator\rainfall erosivity calculator\bin\Release\NPOI.OpenXmlFormats.dll
+G:\c#-try\rainfall erosivity calculator\rainfall erosivity calculator\bin\Release\NPOI.xml
+G:\c#-try\rainfall erosivity calculator\rainfall erosivity calculator\bin\Release\NPOI.OOXML.xml
+G:\c#-try\rainfall erosivity calculator\rainfall erosivity calculator\bin\Release\NPOI.OpenXml4Net.xml
+G:\c#-try\rainfall erosivity calculator\rainfall erosivity calculator\obj\Release\myCalculator.Form1.resources
+G:\c#-try\rainfall erosivity calculator\rainfall erosivity calculator\obj\Release\myCalculator.Properties.Resources.resources
+G:\c#-try\rainfall erosivity calculator\rainfall erosivity calculator\obj\Release\myCalculator.csproj.GenerateResource.Cache
+G:\c#-try\rainfall erosivity calculator\rainfall erosivity calculator\obj\Release\rainfall-erosivity calculator.exe
+G:\c#-try\rainfall erosivity calculator\rainfall erosivity calculator\obj\Release\rainfall-erosivity calculator.pdb
+G:\c#-try\rainfall erosivity calculator\rainfall erosivity calculator\obj\Release\myCalculator.csprojResolveAssemblyReference.cache
