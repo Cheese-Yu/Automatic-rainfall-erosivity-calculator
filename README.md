@@ -30,7 +30,7 @@ E总、I30、R数据所在的行,为该时段降雨数据的最后一行<br/>
 * 其他<br/>
 文件格式请看[exampleFile.xlsx](https://github.com/Cheese-Yu/Automatic-rainfall-erosivity-calculator/blob/master/exampleFile.xlsx)<br/>
 计算结果请看[resultFile.xlsx](https://github.com/Cheese-Yu/Automatic-rainfall-erosivity-calculator/blob/master/resultFile.xlsx)<br/>
-运行需要安装.NET Framework 4
+运行需要安装.NET Framework 4.5
 ### Contact
 Blog：[cheeseyu.cn](https://cheeseyu.cn)</br>
 微博：[El-pescado](http://weibo.com/u/5146043042?refer_flag=1001030101_&is_all=1)
