@@ -33,4 +33,3 @@ E总、I30、R数据所在的行,为该时段降雨数据的最后一行<br/>
 运行需要安装.NET Framework 4.5
 ### Contact
 Email：[yhyclelo@sina.com](mailto:yhyclelo@sina.com)</br>
-微博：[El-pescado](http://weibo.com/u/5146043042?refer_flag=1001030101_&is_all=1)
